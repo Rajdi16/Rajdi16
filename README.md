@@ -10,7 +10,7 @@
 - 🔭 **Current Focus:** Building automated tools and interactive web platforms.
 - 🐍 **Expertise:** Advanced **Python** scripting and **Full-Stack** web development.
 - ⚙️ **Goal:** Creating clean, efficient code for complex management systems.
-- 📫 **Connect:** [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Portfolio](https://rajdi16.github.io)
+- 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/rajdi-mucanji-b6076a30b/) | [Portfolio](https://rajdi16.github.io)
 
 ---
 
