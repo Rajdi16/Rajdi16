@@ -38,25 +38,8 @@
 ### 📊 GitHub Performance Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Rajdi16&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rajdi Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdi16&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdi16&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
 </div>
 
 ---
-
-### 📈 Activity Graph
-![Rajdi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajdi16&theme=tokyonight&hide_border=true)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajdi16&color=42A5F5&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
